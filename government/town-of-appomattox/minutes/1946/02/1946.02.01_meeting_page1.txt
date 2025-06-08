@@ -1,0 +1,34 @@
+ref: reel_02_0133
+date: 1946-02-01
+content: Appomattox, VA, Feby 1st 1946
+
+Financial Statement
+Bal. in B of A Genl Fund Jan 1st
+1788.89
+1408.82
+3197.71
+
+Paid out in Jan
+3450.98
+2862.03
+1614.50
+
+Bal Feby 1st -> 2700.83
+
+Bal. in FNB R Fund Jan 1st
+No deposits Pd out 1207.78
+1042.20
+
+2 chs out
+Bal Feby 1st
+962.98
+-> 1051.80
+
+Bal FNB BM Jan 1
+No deposits Pd out in Jan
+353.62 712.38
+1066.40
+chunk_id: 19629
+record_id: 649
+page_number: 1
+

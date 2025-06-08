@@ -1,0 +1,16 @@
+ref: reel_02_0037
+date: 1943-12-06
+content: Regular meeting of Council. Mayor McDearmon presiding and the following members present: C B Duncan, C L Lumbie, O S Jenkins, F Luvby, L K Raineck, & C L McDearmon.
+Minutes of last meeting read and approved. The Sgt. reported that he had been unable to remove the oak which was in St at J Bapt church and the Presbyterian Church as directed owing to the scarcity of labor. The Comm. on Bldgs reported that the foundations had been found and the garden block were on the ground ready to start work on the Duck House.
+The Sgt. read the Mayor's pocket for Nov and also the Financial Statement as of Dec 1st. The following bills were ordered to be paid:
+Va Pub En Co Sta Lu by lot 1160
+   ' '         747  
+   ' '         Current at plant
+L M Wilkes  75
+Chas Gutch  300
+Eddie Mosbey 500
+J H Cullum 200
+chunk_id: 19535
+record_id: 555
+page_number: 1
+

@@ -1,0 +1,12 @@
+ref: reel_02_0095
+date: 1945-08-01
+content: Financial Statement as of August 1st 1945
+Bal. in Bank Appox 1st July 1st
+Deposited
+Bal. in Bank R & T July 1st
+Ledger Bank Charge for removal
+Bal. Aug 1st
+chunk_id: 19591
+record_id: 611
+page_number: 1
+

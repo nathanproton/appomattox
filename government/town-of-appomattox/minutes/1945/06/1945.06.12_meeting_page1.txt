@@ -1,0 +1,18 @@
+ref: reel_02_0099
+date: 1945-06-12
+content: To Expenses of Town Election, June 12, 1945
+
+To Ryland M. Mann, Registrar - 3 mail ballots $ .75
+" N.R. Featherston, Ballots, Judge, Returns, & Comr. 20.00
+" L.J. Morris, Judge and Comr. 10.00
+" Mrs. E.C. Rogers, Judge and Comr. 10.00
+" W.J. LeGrand, Having ballots printed & 1 meeting El Bd 5.80
+" C.O. Thornhill, 1 meeting El. Board & mileage 8.00
+" R. P. Bryant, 1 ' El. Board, & mileage 6.00
+" C.W. Smith, Clerk - Canvassing returns and abstract 1.25
+
+Total 60.80
+chunk_id: 19595
+record_id: 615
+page_number: 1
+

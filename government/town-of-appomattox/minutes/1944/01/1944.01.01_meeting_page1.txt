@@ -1,0 +1,27 @@
+ref: reel_02_0041
+date: 1944-01-01
+content: The following bills were read and approved:
+L & M Dormon - Due Court fees 18.00
+D J Robertson - " " 3.00
+H C McKinney - " " 5.25
+J C Pulliam - " Space for Mth Rent 3.00
+D J Robertson - " Salary less Tax 32.40
+J W Cawthon - " " 14.62
+Alle Arkelo Co - Gas 11.04
+Main St. Pro. St. - Suppplies & Ink 1.88
+H C Barbechelli - Plans for Office Bldg 62.50
+Charlie Fisch - Labor Bldg Murphy St 2.00
+J E Keau Co - Bldg Material & Grange 172.95
+Eddie Woolridge - Chief Case & 7th Due 5.00
+
+The Mayor's Docket for Dec. and also
+Financial Statement of the Town as of Dec 31-43
+was read by the clerk.
+
+and the meeting was adj'd.
+
+J W Cawthon clerk.
+chunk_id: 19539
+record_id: 559
+page_number: 1
+

@@ -1,0 +1,11 @@
+ref: reel_02_0188
+date: 1946-07-01
+content: Bal on GMG Bank on July 1st 46
+Dep
+Plant
+Bal Jan 1st 47
+Less Bank charge
+chunk_id: 19684
+record_id: 704
+page_number: 1
+

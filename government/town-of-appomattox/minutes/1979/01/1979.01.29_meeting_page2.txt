@@ -1,0 +1,54 @@
+ref: reel_03_0437
+date: 1930-01-01
+content: Names
+
+Brad Hudwood
+Roy Noble
+Frank Stuchell
+Bruce Creehold
+Pete Mueller
+Carl Miller
+Thomas E. Conner
+Thomas W. Lavin
+Brad Son
+R.L. Arnold
+Mayor Stiggle
+Binger W.R. Bitten
+Mr. Pierce
+Mr. Pillman
+
+add.
+
+Appomattox
+Appomattox
+"
+"
+Appomattox
+Appomattox
+Appomattox, VA
+"
+"
+
+If you would like to speak
+
+Yes
+
+maybe
+possibly
+
+
+
+
+No
+
+✓
+possibly
+certainly
+✓
+✓
+
+
+chunk_id: 20589
+record_id: 1609
+page_number: 1
+

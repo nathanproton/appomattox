@@ -1,0 +1,32 @@
+ref: reel_03_0356
+date: 1978-01-31
+content: TABLE 5
+Family Income Computations for DHUD Section 8 Apartments Program
+(as of January 31, 1978)
+
+Number of Persons Per Family
+
+one
+Lynchburg SMSA*
+Low Income $ 8,000
+Very Low Income $ 5,150
+
+Bedford City
+Low Income $ 8,000
+Very Low Income $ 5,150
+
+Bedford County
+Low Income $ 8,000
+Very Low Income $ 5,150
+
+Appomattox and Campbell
+Low Income $ 8,000
+Very Low Income $ 5,150
+
+...
+
+*Includes Lynchburg and the Counties of Amherst, Appomattox and Campbell
+chunk_id: 20514
+record_id: 1534
+page_number: 1
+

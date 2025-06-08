@@ -1,0 +1,10 @@
+ref: reel_03_0431
+date: 1979-12-01
+content: PUBLIC NOTICE
+The Town of Appomattox will hold two public hearings, one on December 11, 1979, at 7:30 p.m., and the second on January 4, 1979, at 9:00 a.m.; both will be held in the Appomattox Town Office. The purpose will be to brief the citizens of Appomattox on a proposed 1979 Community Development Grant Request from HUD for additions to the Appomattox water supply system.
+For specific questions concerning total amount, range of activities, the amount that pre-application will be more than HUD can fund, the processes to follow, or a summary of the program requirements, please contact W.R. Britton, Jr. at 352-8268.
+12-21-1tc
+chunk_id: 20583
+record_id: 1603
+page_number: 1
+

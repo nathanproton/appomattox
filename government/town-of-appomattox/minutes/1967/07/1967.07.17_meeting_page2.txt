@@ -1,0 +1,13 @@
+ref: reel_02_0466
+date: 1930-01-01
+content: The meeting was adjourned.
+
+Signed
+H. B. Pack, Mayor
+
+Signed
+C. S. Booth, Clerk
+chunk_id: 19948
+record_id: 968
+page_number: 1
+

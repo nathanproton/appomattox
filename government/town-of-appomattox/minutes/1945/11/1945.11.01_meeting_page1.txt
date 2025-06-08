@@ -1,0 +1,23 @@
+ref: reel_02_0114
+date: 1945-11-01
+content: Financial Statement as of Nov 1st 45
+Balance on B&A Fund Nov 1st
+Deposits
+C&O att.
+Bal on B&A Nov 1 (unknot 10%)
+
+Balance in FNB R7 Oct st
+Dep
+Ode att
+Bal Nov 1st
+Less int Bal Nov 1st
+
+Bal in FNB Sm Oct st
+Dep
+Pd out in Oct
+Bal Nov 1st
+Less Bank Charge No 46
+chunk_id: 19610
+record_id: 630
+page_number: 1
+

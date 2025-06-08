@@ -1,0 +1,32 @@
+ref: reel_02_0080
+date: 1945-03-01
+content: Financial Statement
+Bal. in PMB Appx Feby 1st 1694.18
+Deposits 466.75
+2160.93
+Pa out 624.93
+Bal. Mch 1st 1536.00
+
+Bal in PMB R F Feby 1st 899.75
+Dep 500.00
+Pa out 66.70
+
+433.30
+273.75
+4028.69
+
+Sewer Charge O. Brown
+
+Bal PMB S M Feby 1st 158.40
+Plant 11.84
+Sewer Charge 1438.36
+Bal Mch 1st 73.52
+
+Bal PMB Sinking Fund Feby 1st 
+Plant 2649.12
+Bal Mch 1st 500.00
+2087.12
+chunk_id: 19576
+record_id: 596
+page_number: 1
+

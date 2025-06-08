@@ -1,0 +1,16 @@
+ref: reel_03_0488
+date: 1931-01-01
+content: Adequate coverage for Public Officials liability. The current proposal calls for this line of insurance to be made available in 1981, the second year of operation of the reciprocal. This is necessary because Public Officials Liability insurance does not generate enough total premium dollars to justify the establishment of a reciprocal for that one line of coverage, nor is it practical or advisable to attempt to offer more than one line of coverage in the first year of operation of the reciprocal.
+
+Based upon these constraints and upon the best advice of our consultant, it has been decided to confine the initial phase of the reciprocal to Automobile Bodily Injury and Property Damage Liability and Automobile Physical Damage. Two further reasons for this decision are:
+
+1. The drafting of acceptable forms and the development of credible rates that would be approved by the Virginia Insurance Commission for a line such as Public Officials Liability Insurance would be very time consuming and would delay the start of operation of the company; and,
+2. Reinsurers would be reluctant to make satisfactory proposals for such an experimental line of insurance with a new company.
+
+Description of a Reciprocal Insurance Company
+
+Perhaps a general description of a reciprocal would be helpful at this point. A reciprocal insurance company or exchange is an unincorporated association of individuals or other entities who
+chunk_id: 20637
+record_id: 1657
+page_number: 1
+

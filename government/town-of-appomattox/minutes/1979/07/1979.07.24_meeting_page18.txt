@@ -1,0 +1,17 @@
+ref: reel_03_0500
+date: 1978-08-07
+content: Mr. Bradley K. Harmes
+Senior Staff Associate
+Virginia Municipal League
+P. O. Box 753
+Richmond, Virginia 23206
+
+Dear Mr. Harmes:
+
+I am writing in reply to your letter of July 18, 1978, concerning the authority of Virginia municipalities to form a reciprocal insurance company. Please note that this is not an official opinion of the Attorney General, but is merely an informal staff response in order to be helpful to you. Section 15.1-506.1 of the Code of Virginia (1950), as amended, authorizes the governing body of any political or governmental subdivision to provide self-insurance for its officers and employees. In addition, § 15.1-21 authorizes political subdivisions to exercise jointly any powers capable of exercise by any single subdivision. Such a joint exercise of powers must be based upon an agreement which specifically articulates the organization and structure of the entity necessary to carry out this joint exercise, the manner of financing the cooperative undertaking, and other necessary and proper matters. The joint powers may be exercised by a separate legal or administrative entity.
+
+Based on the interrelationship of these two statutes, I believe that Virginia municipalities could join together to create a reciprocal insurance company which would serve as a legal entity though which self-insurance could be provided by localities. What your letter terms "investment" of funds in order to provide the necessary beginning capital would, in another sense, be merely an appropriation of public funds to serve as the source from which self-insurance payments may be made. Although the terminology is different, the procedure appears to be clearly authorized by § 15.1-19.2.
+chunk_id: 20648
+record_id: 1668
+page_number: 1
+

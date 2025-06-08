@@ -1,0 +1,34 @@
+ref: reel_02_0173
+date: 1946-09-01
+content: Mayor's Docket for Sept 1946
+
+Sept 7
+Cane of WB Sharpe
+Diamond Hardy
+
+8
+Arthur Wheeler
+
+14
+Joe W. Winn
+
+12
+Ed Baldwin
+Allan L. Ward
+B J Marks
+Griffin Taller
+Lacy Ryan
+Clarence Ryan
+Luther Shoemaker
+Walter Dainson
+R B Holley Jr
+Jimmie Parrett
+James A. Armhnart
+
+CM Carter
+
+Various amounts listed with 'Fm' and 'Cost'
+chunk_id: 19669
+record_id: 689
+page_number: 1
+

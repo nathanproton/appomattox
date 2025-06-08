@@ -1,0 +1,11 @@
+ref: reel_03_0487
+date: 1980-01-01
+content: insurance. Another possibility exists for a group pool for Workmen's Compensation under the provisions of HB 1952 adopted by the 1979 Session of the Virginia General Assembly. Because of the variety of options available, all with varying levels of complexity for implementation, the Insurance Committee has decided to move forward on the most comprehensive, and therefore most complex, proposal so as to minimize lost lead time in implementation.
+
+A target date of July 1, 1980 has been set for implementation of the reciprocal insurance company. In part, this date was chosen to coincide with the general fiscal year. Since a minimum of three to six months is necessary for the proper processing of the forms required by the Bureau of Insurance of the State Corporation Commission, it will be necessary to have most of the background work and "charter" membership work completed by January 1, 1980. A minimum of 25 entities is necessary to form a reciprocal in Virginia. In addition to general purpose local governments, this minimum of 25 can include other entities such as school boards, water authorities, housing authorities, etc. A listing of the requirements of the Bureau of Insurance for the organization and licensing of a Virginia reciprocal insurer is contained in Appendix A on Page 15. Further comments can also be found beginning on page 5.
+
+The single greatest concern of local officials in the area of insurance appears to be the availability of Public Officials Liability Insurance. Much of the interest that has already been expressed in the reciprocal has been due to the desire to obtain
+chunk_id: 20636
+record_id: 1656
+page_number: 1
+

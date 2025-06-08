@@ -1,0 +1,15 @@
+ref: reel_02_0368
+date: 1960-05-16
+content: At a regular meeting of the Town Council of Appomattox, Appomattox, Virginia, on May 16, 1960 the following resolution was adopted: 
+
+1. The following requirements will have to be met prior to clearance of any section of any street for immediate maintenance of the Town of Appomattox. 
+
+2. The recorded right of way, dedicated to public use in the name of Town of Appomattox, of not less than fifty (50) feet.
+
+2. The proper recordation of drainage easements for drainage on prescribed right of way with easement for drainage on adjacent properties.
+
+3. The right of way be recorded to connect with public maintained roads and streets unless it dead ends at the Corporate Limits of the Town of Appomattox.
+chunk_id: 19852
+record_id: 872
+page_number: 1
+

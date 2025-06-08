@@ -1,0 +1,15 @@
+ref: reel_03_0293
+date: 1977-12-28
+content: RESOLUTION
+
+We, Bobbie H. Mullins, Clerk of the Town of Appomattox, and Henry B. Pack, Jr., Mayor of the Town of Appomattox, a municipal corporation in the State of Virginia, do hereby certify that the hereinafter set forth Resolution is a full, true and correct copy of a Resolution of the Town Council of the Town of Appomattox, duly and regularly passed and adopted at a meeting of the Town Council of the Town of Appomattox, which was duly and regularly called and held in all respects as required by law, on a regular meeting date of the said Council, at the Town Office in the Town of Appomattox, on December 12, 1977, at which meeting all members of the Town Council were present and voted in favor of such Resolution:
+
+"RESOLVED, that the General Assembly of Virginia, in their regular session, beginning January 11, 1978, be requested and petitioned to amend the Charter of the Town of Appomattox, Virginia, Section 22 thereof to be compatible and consistent with current Virginia law under Section 15.1 of the Code of Virginia of 1950, as amended, and especially Section 15.1-185 of the said Code of Virginia, and that the said Section 22 of the Charter of the Town of Appomattox be so amended and that a Bill be prepared and introduced by Delegate Claude Anderson and Senator Howard Anderson, the duly elected representatives in the Virginia General Assembly, of the Town of Appomattox, to carry out this resolution of the said Town Council."
+
+In Witness Whereof, we have set our hands as Clerk and affixed the Seal of the Town of Appomattox, and the Mayor has attested all on this 28th day of December, 1977.
+
+Henry B. Pack, Jr., Mayor
+chunk_id: 20476
+record_id: 1496
+page_number: 1
+

@@ -1,0 +1,48 @@
+ref: reel_02_0580
+date: 1970-12-01
+content: STREET DEPARTMENT
+Payroll 3,484.00
+Maintenance & Supplies 1000.00
+Sidewalks 400.00
+Lights 4000.00
+Truck Costs 300.00
+Insurance 166.00
+Miscellaneous 976.00
+Total $10,326.00
+
+SANITATION DEPARTMENT
+Payrolls 6967.00
+Supplies 653.00
+Truck Costs 600.00
+Sanitary Fill 800.00
+Insurance 277.00
+Total $9,297.00
+
+GENERAL FUND EXPENDITURES
+Administrative $23,586.00
+Police 8,933.00
+Fire 3,408.00
+Street 10,326.00
+Sanitary 9,297.00
+Total 55,550.00
+
+GENERAL FUND RECEIPTS
+Taxes 19,000.00
+Business License 7,000.00
+Sales Tax 5,300.00
+Bank Stock Tax 8,600.00
+Motor Vehicle Tax 20.00
+A.B.C. Fund 4,400.00
+Gas Tax Refund 230.00
+Auto Tags 3,200.00
+Court Fines & Costs 1,200.00
+School Electricity 5,000.00
+Miscellaneous 1,600.00
+Total 55,550.00
+
+The above budget was adopted by the Town Council on December 1, 1970.
+H.S. Terry, Mayor
+chunk_id: 20050
+record_id: 1070
+page_number: 1
+

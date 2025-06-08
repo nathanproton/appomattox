@@ -1,0 +1,11 @@
+ref: reel_03_0218
+date: 1977-04-11
+content: We, the undersigned, Watkins M. Abbitt, Jr., C. S. Booth, and W. E. Hancock, having been duly appointed by ordinance of the Town of Appomattox, adopted the 11 day of April 1977, after first being duly sworn, make oath that we have gone upon the property of the portion of the alley proposed to be closed described as follows:
+
+A portion of that certain 20 foot alley located in the Town of Appomattox adjacent to the West side of the First Colony Telephone Co. lot and lying immediately adjacent to the East side of the Farmers National Bank lot on the North side of West Harrell Street and described as follows: Beginning at a point located on the immediate North side of West Harrell Street; thence N. 70° 00' W. 20.00 feet to a point located on the immediate North side of West Harrell Street; thence N. 20° 00' E. 54.73 feet to a point; thence in a curve to the right an arc distance of 3.85 feet to a point; thence in a curve to the left an arc distance of 22.93 feet to a point; thence S. 70° 00' E. 5.00 feet to a point; thence S. 20° 00' W. 75.00 feet along with the common boundary line between said alley and First Colony Telephone Co. (now known as Continental Telephone Company of Virginia) to point of beginning, containing 0.03 acre and designated Parcel 4 on a certain plat of survey made by Ralph P. Hines, C. L. S., dated January 25, 1977, to which reference is hereby made.
+
+We find that no person will be adversely affected by the closing of the above-described portion of said alley, and the reopening of an alley to be located parallel to said portion of the alley to be closed, and we do further find that no inconvenience will result upon the closing of the portion of the alley above-described and the opening of the second mentioned alley.
+chunk_id: 20410
+record_id: 1430
+page_number: 1
+

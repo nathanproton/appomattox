@@ -1,0 +1,36 @@
+ref: reel_03_0355
+date: 1978-02-23
+content: ADDENDUM TO THE HOUSING POLICIES PLAN UPDATE FOR THE CENTRAL VIRGINIA PLANNING DISTRICT
+
+Introduction
+It was the consensus of the Regional Planning Advisory Committee, at its February 9, 1978, meeting, to recommend that the commission adopt the Housing Policies Plan Update for the Central Virginia Planning District as revised. The revisions to the plan were prepared as a result of public comments and suggestions received orally at the public hearing on the plan, held on January 5, 1978, as well as written comments received prior to January 13, 1978.
+
+Plan Revisions
+The following changes should be made in the plan:
+
+Page 26, Table 5
+- Substitute attached revised table.
+
+Page 46, Table 8
+- Add for Town of Brookneal, under Subdivision Ordinance: adopted 1977.
+
+Page 95, last paragraph, second to last sentence
+- Change sentence to read: 'In Central Virginia, only Campbell County and the City of Lynchburg have completed detailed soil surveys.'
+
+Page 96, Figure 7
+- Substitute attached revised Figure 7.
+
+Page 97, Table 22
+- Substitute attached revised Tables 22A and 22B.
+
+Page 98, second paragraph
+- Substitute attached paragraph.
+
+Page 113, Table 23
+- Change Glass, Carter, House, 1977, to Glass, Carter, House, 1976.
+
+The Environmental and Historic Assessments for the plan and the HUD Summary Statement for the Housing Element are included in the addendum.
+chunk_id: 20513
+record_id: 1533
+page_number: 1
+

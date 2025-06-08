@@ -1,0 +1,27 @@
+ref: reel_03_0498
+date: 1930-01-01
+content: APPENDIX A
+STATE CORPORATION COMMISSION
+BUREAU OF INSURANCE
+
+REQUIREMENTS FOR ORGANIZATION AND LICENSING OF A VIRGINIA RECIPROCAL INSURER
+
+1. A minimum of 25 persons domiciled in Virginia are required to organize a new reciprocal insurer. They must decide if the Attorney-in-Fact will be an individual, partnership or corporation. If a partnership, the necessary agreement must be prepared and filed with the Clerk of the appropriate court. (Section 50-74) if a corporation, the necessary Articles of Incorporation must be prepared and filed with Clerk's Office, State Corporation Commission. Pay necessary fees and secure Certificate of Incorporation. See booklet "Methods and Costs of Incorporation in Virginia" (38.1-709, Code of Virginia).
+
+2. Prepare Power of Attorney and Subscriber's Agreement containing provisions required by Section 38.1-700, for execution by the 25 persons referred to above and secure its approval from Bureau of Insurance.
+
+3. After funds are secured and assuming necessary plans have been made for staffing and future operations, a Declaration and Application for license should be prepared and executed by the original subscribers and the proposed attorney and acknowledged by each before a Notary Public, and filed with the Bureau of Insurance, State Corporation Commission. The declaration and application must set forth: (Section 38.1-709)
+
+    (a) Name and address of attorney-in-fact.
+    (b) Name and address of reciprocal insurer.
+    (c) Kinds of insurance proposed to be transacted as shown on application for license to be attached.
+    (d) Names and addresses of original subscribers.
+    (e) Designation and appointment of proposed attorney. A copy of the Power of Attorney and Subscriber's Agreement should be attached.
+    (f) Names and addresses of officers and directors of attorney-in-fact if a corporation, or its members if a partnership.
+    (g) Powers of Subscriber's Advisory Committee and names and terms of office of its members.
+    (h) Statement that each original subscriber has in good faith applied for insurance of the kind proposed to be transacted and that the insurer has received from each such subscriber the full premium or premium deposit required for the policy applied for, for a term of not less than six months at the rate theretofore filed with and approved by the Commission.
+    (i) Statement of financial condition showing assets, liabilities and surplus as of recent date, sworn to by at least two principal officers before a Notary Public. Name and address of banks with amount in each and list of securities with any other investments
+chunk_id: 20646
+record_id: 1666
+page_number: 1
+

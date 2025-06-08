@@ -1,0 +1,30 @@
+ref: reel_02_0083
+date: 1945-05-01
+content: Financial Statement as of May 1st
+Balance in Bank of Approx. 4th April 1712.33
+Deposited 141.21
+1353.54
+Dant 71.92
+3 check 200 = 16 1-2 Bank
+Bal in FNB Rt April 1st
+Dep
+305.73
+502.50
+808.23
+115.91
+692.32
+Not 43 Bank charge
+Bal May 1st -> 691.89
+Bal FNB Sm April 1st
+Dep
+118.72
+1000
+128.72
+42.25
+884.7
+45
+Bank charge no 44 Bal May 1st -> 88.02
+chunk_id: 19579
+record_id: 599
+page_number: 1
+

@@ -1,0 +1,15 @@
+ref: reel_02_0104
+date: 1945-09-03
+content: Mr. Jenkins offered the following resolution, which was seconded by Mr. Hunt, and unanimously passed, with instructions to have same printed in the minutes, and a copy delivered to Mr. C. S. McDearmon and copied in the minutes.
+
+Be it resolved that; when the Honorable C. S. McDearmon, Mayor for the Town of Appomattox for the past 12 years, decided to retire at the expiration of his 6th term in office on September 3rd, 1945;
+
+We the members of the Town desire to express our appreciation of the services rendered by Mayor McDearmon and his fine spirit of cooperation always shown by him and his strict impartiality in presiding officer. There was never any doubt about how he would stand on any moral question, nor anything for the promotion of the best interest of the citizens of the Town. Although a busy man he has never too tired or overworked to attend to the duties of his office as Mayor. To all of us who have been associated with him through the years, he has greatly endeared himself and we will miss him in the years to come.
+
+May He who holds the destiny of men and nations in his hand ever guide and protect him in the desire of this body.
+
+Signed
+chunk_id: 19600
+record_id: 620
+page_number: 1
+

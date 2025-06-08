@@ -1,0 +1,21 @@
+ref: reel_02_0109
+date: 1945-10-01
+content: Financial Statement
+Bal in Bldg A-O Fund Sept 5
+5941.62
+Dept 1988.41
+Paid Out 7100.03
+Bal Oct 1st 470.88
+Bal Oct 1st  - 6629.15
+Bal 7th R & S Dept 389.04
+1716.47
+2105.51 - 273.71
+Oct 1st - 2400 net
+7420.62 927.34
+Bal 7th St Dept 71.23
+Nothing Paid out - Bal Oct 1st - 1000.00
+1071.23
+chunk_id: 19605
+record_id: 625
+page_number: 1
+

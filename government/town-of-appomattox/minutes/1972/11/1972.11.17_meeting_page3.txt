@@ -1,0 +1,16 @@
+ref: reel_02_0666
+date: 1972-11-17
+content: Mr. William S. Sagle
+P.O. Box 705
+Appomattox, Va. 24522
+
+Dear Mr. Sagle,
+
+This is to advise you that we the undersigned do hereby withdraw our application dated November 17, 1972 to operate an amusement center in the building formerly occupied by Williams Store on Harrell Street in Town of Appomattox, Va.
+
+William R. Willis
+Ashley Wright
+chunk_id: 20128
+record_id: 1148
+page_number: 1
+

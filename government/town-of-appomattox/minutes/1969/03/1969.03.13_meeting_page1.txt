@@ -1,0 +1,42 @@
+ref: reel_02_0535
+date: 1969-03-13
+content: A special meeting of the Town Council was held in the Council Room on March 13, 1969 at 7:30 P.M. with Mayor H. E. Pact presiding.
+
+Members present were Mrs. C. H. Robinson, R. L. Bass, David Gantt, Ivey Holland, F. L. Hubbard, and H. L. Webb.
+
+The Mayor announced that the purpose of the meeting was to hold a joint public hearing with the Appomattox County Planning Commission on the proposed zoning Ordinance for the Town of Appomattox.
+
+Mr. H. S. Marsh, of the State Division of Planning, explained the proposed ordinance to those present and answered questions.
+
+Mr. Fred Lawson requested that the west side on Court St. be changed from R-1 to B-1 south to the Methodist Church, and that the lot bounded by Court Street, Highland Avenue, and Atwood Street be changed from R-2 to B-1.
+
+Mrs. W. C. Poston and Mrs. W. C. Hubbard requested that the west side of Court Street remain in R-1.
+
+Mr. W. E. Jamerson requested that the size of lots for apartment houses be reduced.
+
+The following people who were not members of the Council or Planning Commission were present:
+
+J. R. Jamerson
+H. E. Jamerson
+W. F. Connor
+Mrs. W. C. Ould
+Mrs. Rachel P. Lawson
+Mrs. W. C. Poston
+F. L. Eggleston
+Fred Lawson
+W. C. Hubbard
+Harvey G. Lawson
+J. R. Lawson
+Dr. S. A. Matthews
+Dr. A. A. Prentick
+Mr. A. G. Stimpson
+Mr. Jones
+
+The meeting adjourned.
+
+H. E. Pact, Mayor
+C. S. Booth, Clerk
+chunk_id: 20005
+record_id: 1025
+page_number: 1
+

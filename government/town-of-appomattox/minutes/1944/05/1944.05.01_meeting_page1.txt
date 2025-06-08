@@ -1,0 +1,20 @@
+ref: reel_02_0147
+date: 1944-05-01
+content: Financial Statement May 1st 1944
+Balance in B of A Gen. Fund Apr. 1st 1927.09
+Deposited 177.99
+'' 2105.08
+Paid out 1082.30
+Bal May 1st 1050.78
+Balance in BNB Road Fund Apr. 1st 750.10
+402.00
+1152.10
+Paid out 181.86
+Bal May 1st 970.24
+Balance in FNB SM Apr. 1st 722.28
+Dep 10.00
+Bal May 1st 732.28
+chunk_id: 19643
+record_id: 663
+page_number: 1
+

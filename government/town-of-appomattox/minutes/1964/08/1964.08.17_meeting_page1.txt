@@ -1,0 +1,11 @@
+ref: reel_02_0411
+date: 1964-08-17
+content: The Regular meeting of the Town Council met in the Mayor's Office on August 17, 1964, at 7:30 P.M. with Mayor S.R. Lawson presiding. The following members were present: Mrs. C.H. Robinson; Ivey Holland; Burke Guill; T.R. Gilbert; and H.B. Pack. The minutes of the previous meeting were read and approved as read.
+
+Motion was made by T.R. Gilbert, seconded by Burke Guill. That the Town replace the 4 or 5 feet of Norman Mayberry's water line from the meter if its leaking beyond that point, leave it alone. Motion carried.
+
+Motion made by H.B. Pack, seconded by Mrs. C.H. Robinson. That the Town have one Street Light on Patricia Ann Lane on Pole to be selected and one on Ferguson Street on the pole to be selected. Motion carried.
+chunk_id: 19895
+record_id: 915
+page_number: 1
+

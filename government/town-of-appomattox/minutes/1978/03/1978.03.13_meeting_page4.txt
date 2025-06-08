@@ -1,0 +1,11 @@
+ref: reel_03_0301
+date: 1970-01-01
+content: Mr. Britton reported on the I. & I. Study to be done our sewage treatment system. The total grant will be for $27,750.00 of which our portion will be $9,250.00.
+
+Mr. Britton was appointed to a Task Force for the Emergency Number, 911, at the Central Virginia Planning District Commission.
+
+There being no further business, the meeting adjourned.
+chunk_id: 20483
+record_id: 1503
+page_number: 1
+

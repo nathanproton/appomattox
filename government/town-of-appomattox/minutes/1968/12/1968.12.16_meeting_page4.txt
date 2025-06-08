@@ -1,0 +1,51 @@
+ref: reel_02_0531
+date: 1968-12-16
+content: WATER DEPARTMENT EXPENDITURES
+Payrolls $ 11,250.00
+Office Supplies - Postage, Collecting 400.00
+Materials & Supplies 1,500.00
+Repairs 2,000.00
+Telephone 180.00
+Electricity 825.00
+Bonds & Interest 5,120.00
+Capital Outlay 3,059.00
+Insurance 100.00
+Truck & Tractor Cost 500.00
+Rescue Squad Refund 86.00
+Consulting Engineers 300.00
+Water Deposits 100.00
+Miscellaneous 400.00
+Total 26,400.00
+
+WATER DEPARTMENT RECEIPTS
+Sales $ 25,000.00
+Taps 800.00
+Deposits 300.00
+Miscellaneous 300.00
+Total 26,400.00
+
+SEWER DEPARTMENT EXPENDITURES
+Payrolls $ 5,626.50
+Insurance 300.00
+Materials & Supplies 1,500.00
+Repairs 1,000.00
+Electricity 350.00
+Capital Outlay 7,713.50
+Truck & Tractor 150.00
+Consulting Engineer 100.00
+Miscellaneous 300.00
+Total 16,200.00
+
+SEWER DEPARTMENT RECEIPTS
+Taxes $ 14,000.00
+Sewer taps 500.00
+Rental Fees 1,500.00
+Miscellaneous 200.00
+Total 16,200.00
+
+The above budget was adopted by the Town Council on December 16, 1968.
+H. B. Pack, Mayor
+chunk_id: 20001
+record_id: 1021
+page_number: 1
+

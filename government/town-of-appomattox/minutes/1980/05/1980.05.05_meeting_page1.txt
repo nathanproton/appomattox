@@ -1,0 +1,29 @@
+ref: reel_03_0573
+date: 1980-05-05
+content: Mr. W. R. Britton, Jr. Town Manager P. O. Box 705 Linden Street Appomattox, Virginia  24522
+
+RE: Town of Appomattox Sewage Treatment Facilities, NPDES Permit Modification Request
+
+Dear Mr. Britton:
+
+In response to your letter dated April 28, 1980, I regret to inform you that the requested modifications of NPDES permits VA0020249 and VA0020257 cannot be made. According to the NPDES Permit Program the sampling frequencies required for the Town of Appomattox Sewage Treatment Facilities are the minimum acceptable frequencies for facilities of this size and type.
+
+This office is sympathetic to economic hardships the Town of Appomattox may be experiencing. The Appomattox Town Council, however, should realize that requirements of the Virginia NPDES Permit Program apply equally to all wastewater dischargers within the state and that the requirements are carefully determined so as to ensure water quality standards of state waters with the least expense.
+
+I trust that the Town of Appomattox will make every possible effort to meet the requirements of its NPDES permits.
+
+Should you have any further questions, please contact me.
+
+Sincerely,
+
+Douglas B. Carl
+Pollution Control Specialist
+
+DBC/mj
+
+cc: SDH - Danville
+.BAT File Sewage
+chunk_id: 20700
+record_id: 1720
+page_number: 1
+

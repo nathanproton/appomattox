@@ -1,0 +1,24 @@
+ref: reel_02_0671
+date: 1973-03-09
+content: Mr. W. S. Slagle
+Town Manager
+Appomattox, Virginia
+
+Dear Mr. Slagle:
+
+As you requested, the following is a description of the property we have requested to be rezoned from Residential to Business:
+
+All of that certain parcel of lot of real estate, lying and being in the Town of Appomattox, immediately on the South side of East Patricia Ann Lane, adjoining the lands of Evans & Nash, Jimmy Rogers and the other lands of the party of the first part and more particularly (E. Leroy Smith) described as follows: Beginning at the line of Evans and Nash and East Patricia Ann Lane; thence with East Patricia Ann Lane 125 feet to a stake; thence away from East Patricia Ann Lane approximately 154 feet to the line of Jimmy Rogers; thence with Jimmy Rogers down to the lands of Evans & Nash 125 feet; thence with Evans & Nash line approximately 141 feet to the point of beginning. This land is shown on a plat of survey recorded in the Clerk's Office of the Circuit Court of Appomattox County, Virginia, in Deed Book 88, at page 458, and is also shown on a plat of survey recorded in the aforesaid Clerk's Office in Deed Book 105, at page 194, the first plat being that of Evans & Nash and the second being that of Jimmy Rogers.
+
+Also attached is a plat of the property dimension.
+
+Yours very truly,
+
+Elmer E. Nealy
+Store Services Manager
+
+EN:mw
+chunk_id: 20133
+record_id: 1153
+page_number: 1
+

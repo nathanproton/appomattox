@@ -1,0 +1,35 @@
+ref: reel_03_0354
+date: 1978-02-23
+content: COMMISSION STAFF - As of February 23, 1978
+
+William W. Hibbert, III, Executive Director
+Joe R. Coates, Management/Financial Analyst
+G. Martin Watts, Law Enforcement Planner
+George E. McCormack, Principal Regional Planner
+William G. McChesney, Transportation Planner
+Bruce A. Hammett, Environmental Planner
+Foster Paulette, Regional Planner
+Jerry F. Lyndes, Regional Planner
+Ann VandeGraaf, Housing Planner
+Mary Kidd, Manpower Planner
+Cynthia R. Woldin, Administrative Assistant
+Liz Browning, Public Affairs Officer
+J. Kirk deCourcey Showalter, Criminal Justice Planning Analyst
+Greg Reid, Transportation Planning Analyst
+Margaret Davidson, Chief Illustrator
+Mary Hargis, Accounting Officer
+Trudy Layton, Bookkeeper
+Louise F. Williams, Executive Secretary
+Debbie H. Brown, Secretary III (Regional)
+Mary J. Palen, Secretary III (Law Enforcement)
+Peggy Crank, Secretary II (Transportation)
+Nan Croudy, Secretary II (Manpower)
+Charlene Nash, Secretary/Receptionist I (Support)
+Allen Creasy, Messenger/Clerk
+Jayne Schumacher, Administrative Aide (temporary)
+Jose Quintero, Work/Study Student
+Julia Sutherland, Work/Study Student
+chunk_id: 20512
+record_id: 1532
+page_number: 1
+

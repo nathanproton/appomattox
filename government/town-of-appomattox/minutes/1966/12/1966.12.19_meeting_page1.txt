@@ -1,0 +1,33 @@
+ref: reel_02_0454
+date: 1966-12-19
+content: Total of the 1967 Budget $71,269.00
+
+The above budget was adopted by the Town Council on December 19, 1966.
+
+H. B. Peck, Mayor
+
+Council Members:
+Mrs. G. H. Robison
+Mr. Ivey Holland
+Mr. Burke Quill
+Mr. R. C. Hubbard
+Mr. R. L. Enss
+Mr. R. L. Wingfield
+
+Summary of Proposed 1967 Budget
+
+Council Fund $12,367.00
+Police Dept. 2,267.00
+Fire Dept. 3,100.00
+Street Dept. 10,101.00
+Sanitation Dept. 3,151.00
+
+Total General Fund 31,039.00
+Water Dept. 23,300.00
+Sewer Dept. 16,930.00
+
+Totals 71,269.00 7,269.00
+chunk_id: 19938
+record_id: 958
+page_number: 1
+

@@ -1,0 +1,35 @@
+ref: reel_03_0035
+date: 1975-04-02
+content: A transcript of the Public Hearing held by the Appomattox Town Council at 11:00 P.M. in the Municipal Building on April 2, 1975 with W. S. Slagle, Town Manager, presiding:
+
+Those present were:
+
+W. S. Slagle, Town Manager
+Mrs. R. W. Mullins, Clerk
+
+Slagle:
+I now declare this Public Hearing of the Appomattox Town Council now in session. This hearing has been duly advertized as for the prescribed two weeks in the Times-Virginian, a newspaper of local circulation. The purpose of this hearing is to consider a recommendation from the Appomattox County Planning Commission that the following sections of the basic Subdivision Ordinance of the Town of Appomattox as may have been subsequently amended be revised as follows:
+
+4-4-2-1 LOCATION-CONCRETE
+
+Concrete monuments four (4) inches in diameter or square, three (3) feet long, with a flat top shall be at all street corners, at all points where the street line intersects the exterior boundaries of the subdivision and at appropriate points as determined by the subdivision administrator along the rear lot lines but in no instance shall there be less than three (3) monuments in any given site distance. The top of the monument shall have an appropriate mark to identify properly the location and shall be set flush with finished grade.
+
+4-4-6-1 LOT SIZE PUBLIC WATER AND SEWER
+
+Residential lots served by both public water and public sewer systems shall be eighty (80) feet or more in width and twelve thousand (12,000) square feet or more in area.
+
+4-4-6-2 LOT SIZE PUBLIC WATER AND SEWER
+
+Residential lots served by only one of public water or public sewer systems shall be one hundred (100) feet or more in width and twenty thousand (20,000) square feet or more in area.
+
+4-4-6-3 LOT SIZE NEITHER PUBLIC WATER NOR SEWER
+
+Residential lots served by neither public water nor public sewer systems shall be one hundred (100) feet or more in width and twenty five thousand (25,000) square feet or more in area.
+
+5-7 FINAL PLAT
+
+The subdivision plats submitted for final approval by the governing body and subsequent recording shall be clearly and legibly drawn upon a media acceptable to the
+chunk_id: 20246
+record_id: 1266
+page_number: 1
+

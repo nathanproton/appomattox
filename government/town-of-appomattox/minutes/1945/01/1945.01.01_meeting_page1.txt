@@ -1,0 +1,21 @@
+ref: reel_02_0073
+date: 1945-01-01
+content: Jan 1st 1945 con.
+On motion made and carried the budget hereto attached was adopted for 1945.
+By motion by Mr. Leavie 2nd McJenkins that the tax rate for 1945 remain at 100 on the 1000 of assessed value. Carried.
+The clerk read the financial statement as of Jan 1st 45 and also the Mayors Budget.
+The following bills were read and ordered paid:
+Edith Hodges Cheif 5.00
+Lewellel 75
+'D W Goodson 23.81
+Mid West 8.00
+Joyce Ferguson 6.45
+Mann Agg Co 3.40
+506.3
+On Motion adjd.
+They found that the gifts were ready to be audited.
+J W Cauthen clk G M Timmons Mayor
+chunk_id: 19569
+record_id: 589
+page_number: 1
+

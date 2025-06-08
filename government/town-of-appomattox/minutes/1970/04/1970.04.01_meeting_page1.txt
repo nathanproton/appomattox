@@ -1,0 +1,21 @@
+ref: reel_02_0142
+date: 1970-04-01
+content: Bal on Bd of A Mechl st 2311.91
+Dep 204.12
+" 254.03
+670.96
+Pd out Bal Apr. 1st North Fork 19166.99
+Fox " Bank of Trout 19127.08
+Bal on M.B. R7 Mechl st 857.10
+Dep " 60.00
+" 91.70
+Pd out 135.25
+Bal Apr. 1st 781.85
+
+Bal on M.B. B.M. June Mechl st 703.28
+Dep " Bal Apr 1st -> 20.00
+Pd out 723.28
+chunk_id: 19638
+record_id: 658
+page_number: 1
+

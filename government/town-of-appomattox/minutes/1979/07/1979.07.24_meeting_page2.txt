@@ -1,0 +1,35 @@
+ref: reel_03_0483
+date: 1930-01-01
+content: INSURANCE POOLING FOR VIRGINIA'S LOCALITIES
+
+CONTENTS
+
+PAGE
+
+Nationwide Problem ----------------------------------- 1
+VMI Insurance Committee ------------------------------- 3
+Description of a Reciprocal Insurance Company --------- 5
+Legal Position ---------------------------------------- 7
+Requirements for Organizing a Reciprocal -------------- 7
+Minimum Capital --------------------------------------- 8
+Reinsurance ------------------------------------------- 9
+Operational Requirements ------------------------------ 9
+Operational Projections ------------------------------- 10
+Feasibility ------------------------------------------- 11
+The Next Step ----------------------------------------- 11
+
+Appendix A - "Requirements for Organization and Licensing
+of a Virginia Reciprocal Insurer" ---------------------- 15
+Appendix B - Informal opinion from Assistant Attorney
+General ---------------------------------------------- 17
+Appendix C - Summary of Automobile Liability losses based
+on reports from VMI Survey ---------------------------- 19
+Appendix D - Projected Operating Results based on premiums
+and losses as submitted in VMI Survey ------------------ 20
+Appendix E - Pro forma Operating Statement based on premiums
+and losses for 1973-76 as submitted in VMI Survey ----- 21
+Appendix F - VMI Insurance Committee membership roster -- 22
+chunk_id: 20632
+record_id: 1652
+page_number: 1
+

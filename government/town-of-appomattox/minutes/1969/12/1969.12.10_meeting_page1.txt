@@ -1,0 +1,10 @@
+ref: reel_02_0553
+date: 1969-12-10
+content: Committee Meeting
+A meeting of the Finance Committee of the Town Council was held in the Council Room on December 10, 1969 at 7:30 P.M. Present were: Chairman Ivey Holland, and R. C. Hubbard, Mayor Faek and C. S. Booth were present.
+The Committee prepared a proposed budget for 1970 to be presented to the Council.
+The meeting adjourned.
+chunk_id: 20023
+record_id: 1043
+page_number: 1
+

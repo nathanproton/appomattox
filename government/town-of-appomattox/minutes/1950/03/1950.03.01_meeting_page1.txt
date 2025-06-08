@@ -1,0 +1,11 @@
+ref: reel_02_0241
+date: 1950-03-01
+content: A special meeting of the Appomattox Town Council was called on March 1, 1950 with Mayor G. B. Buchanan presiding and the following members present: J. E. Jamerson, C. S. Jenkins, J. C. Caldwell, F. L. Murphy and C. T. Moses, Jr., for the purpose of employing a temporary daytime policeman. On a motion by C. T. Moses, Jr., seconded by J. E. Jamerson and carried, such employment was authorized for a period of 30 days or longer so long as his services are necessary or beneficial to the Town at a monthly salary of $145.00 and an allowance of $45.00 for use of his car in the discharge of his duties.
+
+On a motion adjourned. Signed-E. Carroll Smith Clerk
+
+J. B. Buchanan Mayor
+chunk_id: 19725
+record_id: 745
+page_number: 1
+

@@ -1,0 +1,20 @@
+ref: reel_03_0530
+date: 1979-09-10
+content: Page 3 of 3 - September 10th, Council meeting
+
+The matter of sleeves for water and sewer lines under the By-Pass was referred to the Water and Sewer Committees for their study and recommendations.
+
+At 9:20 the Mayor recessed the meeting to reconvene on September 26, 1979 at 7:30 P.M. to discuss the following:
+
+1. Sewer Ordinance
+2. Highway Department Report
+3. Vote on Pigeon Deletion.
+4. Finance Committee report
+5. Water & Sewer Committees report.
+6. V.M.L. Committees
+7. Property to be sold
+8. Housing Requirements - HUD.
+chunk_id: 20676
+record_id: 1696
+page_number: 1
+

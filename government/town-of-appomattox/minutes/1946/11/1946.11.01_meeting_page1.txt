@@ -1,0 +1,19 @@
+ref: reel_02_0178
+date: 1946-11-01
+content: Mayor's Docket Nov 1st 46
+Oct. amt Hugh Dickerson Pd 5.00 Pd 4.00
+10 Frank Ray Pannille 10.00 4.00
+10 Reggie Drummond " 5.00 " 4.00
+12 James Davis " 10.00 " 4.00
+17 Norvell Jones " 100.00 " 4.00
+18 Clarence Wheeler 10.00 " 5.00
+26 Arthur Wheeler 10.00 5.00
+24.00 30.50
+all found not 54"
+29.50
+29.50
+29.50
+chunk_id: 19674
+record_id: 694
+page_number: 1
+

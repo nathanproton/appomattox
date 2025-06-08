@@ -1,0 +1,15 @@
+ref: reel_02_0082
+date: 1945-04-01
+content: Mayor Docket for Mch
+Mch 1 Chas C Tucker Pd 15.00 Pd 4.00
+10 A B Franklin " 10.00 " 5.50
+" 19 Dick Hunter cul " 5.00 " 12.25
+Doe Tubs " 5.00 " 13.25
+" 20 Roy Frasher " 15.00 " 4.00
+50.00 39.00
+" 19 R A Smith " 15.00 " 4.00
+65.00 43.00
+chunk_id: 19578
+record_id: 598
+page_number: 1
+

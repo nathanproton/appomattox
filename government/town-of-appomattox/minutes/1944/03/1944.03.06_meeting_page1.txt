@@ -1,0 +1,29 @@
+ref: reel_02_0051
+date: 1944-03-06
+content: The following bills were read and ordered paid:
+J.E. Lunsford - 93.75
+Bell Auto Co. - 10.88
+Raymond Jamerson - 39.50
+Pullen Bros. Co. - 3.85
+Water Co. & Lights - 26.60
+Thompson Tex. Sta. - 1.75
+D.S. Robertson - 7.40
+"Eddie" Woodruff, Chev - 90.40
+H.C. Paulson - 5.00
+L.M. Miller - 3.00
+J.W. Cawthon - .75
+J.M. Abbott - 110.40
+C.S.W. Duggan - 10.00
+Main St. Tex. Sta. - 6.00
+------------
+Total - 422.95
+
+There being no further business on motion the meeting was adj'd.
+
+J.W. Cawthon, Clerk
+
+E.H. Seawright, Mayor
+chunk_id: 19548
+record_id: 568
+page_number: 1
+

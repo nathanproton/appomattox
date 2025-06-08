@@ -1,0 +1,25 @@
+ref: reel_02_0763
+date: 1974-07-31
+content: Committee Meeting
+
+A meeting of the sewer committee was held on Wednesday, July 31, 1974 at 7:30 P.M. in the Town Hall.
+
+Those members present were: Mrs. C. H. Robinson, Mr. Ronnie Spiggle, and Mr. R. C. Hubbard.
+
+Also present were Mr. W. S. Slagle, Town Manager, Mr. D. C. Prager, and Mr. Bill Bishop, representing the State Water Control Board.
+
+Mr. Prager and Mr. Bishop explained the N.P.D.E.S. permit program and how it applies to the Town of Appomattox.
+
+It was the consensus of the committee that the Town of Appomattox had no choice but to comply with Public Law 92-500 and that the only negotiable matter was the allowable discharge concentrations of BOD5, suspended Solids, and perhaps the allowable fecal coliform concentrations.
+
+It was learned that the allowable effluent concentrations on the lagoon would be based on one years operating data and that any numbers agreed to now would be renegotiated and based on actual operating data.
+
+Effluent concentrations agreed to in the mechanical certificate would be firm and binding for at least 3 years.
+
+The committees requested that Mr. Slagle arrive at effluent concentrations that he felt the Town can maintain and to check with various testing labs as to the cost of running the necessary tests.
+
+Ronald Spiggle, Chairman
+chunk_id: 20214
+record_id: 1234
+page_number: 1
+

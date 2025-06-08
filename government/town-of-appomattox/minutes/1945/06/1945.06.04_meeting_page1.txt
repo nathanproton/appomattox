@@ -1,0 +1,11 @@
+ref: reel_02_0087
+date: 1945-06-04
+content: Mayors Docket for May - 45
+
+May 4 Conv of Pauleine Newlin Fees $5.00 Cost 5.24
+" " " Roswell Samuels " 11 4.00
+Pd 5.00 Pd 9.24
+chunk_id: 19583
+record_id: 603
+page_number: 1
+

@@ -1,0 +1,18 @@
+ref: reel_02_0190
+date: 1947-01-01
+content: Mayor's Docket for Jan 1947
+
+Jan 4 Case of L.D. Overland 21 25.00 Pd 4.00
+        J.F. Rob't Haley - 10.00 - 4.00
+
+" 11   Lawrence H. Coffee w/s 25.00 bal 20.00 - 5.00
+
+" 16   Jas Allen Pankey - 10.00 - 4.00
+                                      - 70.00
+
+                                                               Lino Lic Exp due 20.00
+                                                                                         50.00
+chunk_id: 19686
+record_id: 706
+page_number: 1
+

@@ -1,0 +1,17 @@
+ref: reel_03_0101
+date: 1976-06-24
+content: A special meeting of the Appomattox Town Council was held on Thursday June 24, 1976 at 8:00 P.M. with Mayor Pack presiding. The meeting was delayed until 8:00 O'clock until a quorum was established.
+
+The purpose of the meeting was to consider the recommendations of the Water Committee held on June 16, 1976 to proposed Water Storage facilities for the Town of Appomattox.
+
+After some discussion motion was made by Spiggle seconded by Hubbard to accept the recommendations of the Water Committee at their June 16, 1976 meeting.
+
+Spiggle- Aye
+Hubbard- Aye
+Guill- Aye
+Robinson- Aye
+Motion Carried.
+chunk_id: 20310
+record_id: 1330
+page_number: 1
+

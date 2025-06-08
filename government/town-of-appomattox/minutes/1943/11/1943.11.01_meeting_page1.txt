@@ -1,0 +1,27 @@
+ref: reel_02_0035
+date: 1943-11-01
+content: The following bills were ordered paid. 
+
+Va. Pub Serv Co. Oct St. lights 116.00 
+" " " Light 78 15 
+" " " current at Plant 
+L M Wilkes ht. Light 75 
+H C Pulliam space for truck 3.00 
+Pullman Phone phone toll 2.85 
+Eddie L. Woodson, chf. care of truck 5.00 
+C L McDearmon escort fee 3.00 
+D L Robertson " " 3.00 
+JW Cawthon salary less 1.40 tx 116.40 
+D L Robertson " " 7.60 " 87.40 
+Main St. Ser. St. supplies Fourth 4.64 
+C A Agee labor & material on Pump 5.00 
+Pull. Alkali Co. gas cyl. #15 10.88 
+
+Total 245.96
+
+On motion adj'd.
+J W Cawthon clk
+chunk_id: 19533
+record_id: 553
+page_number: 1
+

@@ -1,0 +1,36 @@
+ref: reel_02_0632
+date: 1933-01-01
+content: ANNUAL LEAVE
+
+(A) Provision of Credits
+
+Annual leave credits shall be provided for each completed calendar month of service at the rate of one work day (8 hours) for employees with less than ten full years of continuous service, one and one-quarter work days (10 hours) for employees with ten or more full years of continuous service. Annual leave credits may be accumulated not to exceed, at the date of separation, at the date of change to an excepted position or at the end of any calendar year, fifteen work days (120 hours) for employees with less than ten full years of service, eighteen work days (144 hours) for employees with ten or more full years of service.
+
+No annual leave credit shall be provided for service less than a full semimonthly pay period, or fifteen calendar days, whichever is the lesser; the credit for a full semimonthly pay period, or more than fifteen calendar days but less than one calendar month shall be one half a work day. No annual leave credit shall be provided during any period of absence immediately following an absence of thirty calendar days.
+
+(B) Use of Credits
+
+The annual leave credits provided may be used, at the option of employees to provide paid absences for vacation and other personal purposes (including sickness), or for absences in excess of the credits available for other kinds of leave.
+
+Annual leave, as nearly as possible within the requirements of the public service, is allowed at the convenience of the employee. However, before taking annual leave, you must have the approval of your immediate supervisor and/or other designated persons.
+
+(C) Leave Records
+
+At the end of each calendar month of service completed, enter the number of hours credit earned (8 or 10, as the case may be) under the “Annual Leave Earned” column. If you are away from work on vacation, enter the number of hours taken in the “Annual Leave Taken” column. Always enter the date on which leave is taken. Each time you make an entry in either the “Leave Earned” or “Leave Taken” column, enter the balance in the “Leave Balance” column.
+
+HOLIDAYS
+
+The holidays authorized to be observed are the following:
+
+New Year’s Day - January 1
+Washington Birthday - February 22
+Confederate Memorial Day - May 30
+Independence Day - July 4
+Labor Day - First Monday in September
+Veterans Day - November 11
+Thanksgiving Day - Fourth Thursday in November
+Christmas Day - December 25
+chunk_id: 20102
+record_id: 1122
+page_number: 1
+

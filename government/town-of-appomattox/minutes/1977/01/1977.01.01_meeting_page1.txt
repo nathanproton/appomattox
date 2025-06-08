@@ -1,0 +1,29 @@
+ref: reel_03_0364
+date: 1977-01-01
+content: Methodology for Obtaining Expected to Reside Figure (ETR)
+
+1. Lynchburg SMSA Lower Income Household Percentage: 21%
+Source: Housing Policies Plan for Central Virginia
+
+2. Households Currently Residing, Town of Appomattox: 454
+Source: Detailed Housing Survey, Town of Appomattox, VPI & SU, 1977
+
+3. Total Required Number of Lower Income Households:
+454 x 0.20 = 90.8 or 91
+
+4. Lower Income Households Currently Residing, Town of Appomattox: 241
+Source: Detailed Housing Survey, 1977
+
+5. Gross Estimate of Lower Income Households ETR:
+91 - 241
+(1 - 210) = -192
+
+6. Estimate of Lower Income Households Who Reasonably May Be ETR:
+-192
+/ 3 = -64
+
+7. ETR=0 Section 570.306(b)(2)
+chunk_id: 20518
+record_id: 1538
+page_number: 1
+

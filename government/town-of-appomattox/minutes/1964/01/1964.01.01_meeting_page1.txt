@@ -1,0 +1,30 @@
+ref: reel_03_0378
+date: 1964-01-01
+content: 2. The steps to be followed in processing a grievance shall be outlined in the Town's Grievance Procedure.
+
+Section 3. Contractors
+
+Contractors of the Town shall comply with Title VI of the Civil Rights Act of 1964.
+
+Section 4. Operation Practices
+
+It is the policy of the Town to provide equal access to all persons, regardless of race, color, religion, sex, or national origin, to all aspects of all its operations, including organization and administration.
+
+Section 4.1 Procedures
+
+1. Any person who believes that he has been discriminated against by reason of race, color, religion, sex, or national origin, in connection with the administration of the Town, shall be advised of his right to seek advice and conciliation through the Equal Opportunity Counselor.
+
+2. The aggrieved party shall submit his complaint in writing to the Equal Opportunity Counselor.
+
+3. Thereafter, the procedure shall be the same as set forth in the Grievance Procedures.
+
+[Signature]
+Ronald C. Spriggs
+Mayor
+
+[Signature]
+Clerk
+chunk_id: 20531
+record_id: 1551
+page_number: 1
+

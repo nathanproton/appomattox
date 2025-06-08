@@ -1,0 +1,9 @@
+ref: reel_02_0052
+date: 1944-03-10
+content: Called meeting of Council. Mayor McDearmon presiding, and the following members present: J. P. Denman, J.H. Lewis, C.L. Hunter, E. S. Jenkins, and F.C. Murphy, absent C.C. McDearmon.
+Reading of minutes of last meeting dispensed with. Object of the meeting to consider a request of the Heating Service Co. of Danville, Va. to lay or build a side and spur track from the NW Va. R.R. in and across the Town of Appomattox on Railroad Ave.
+Mr. Liggitt, Mgr. of said Heating Co., explained to the Council what the Co. wanted. After some discussion of the question, the following resolution was offered by Mr. Murphy and seconded by Mr. Lewis. The Town Council agree to allow the Heating Service Co. of Danville to build side track from the NW Va. R.R. across Railroad Ave. just west of the present plant of the Heating Service Co. and also a spur track running 120 ft. or more in R.R. Ave. running the track to point as near the St. grade. This permit to expire two years after the close of the war now being fought.
+chunk_id: 19549
+record_id: 569
+page_number: 1
+

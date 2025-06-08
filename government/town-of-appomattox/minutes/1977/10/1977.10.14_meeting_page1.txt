@@ -1,0 +1,14 @@
+ref: reel_03_0192
+date: 1977-10-01
+content: The undersigned, being owners of real estate lying and being on the southwest side of Court Street, in the Town of Appomattox, Virginia do hereby Petition The Appomattox Town Counsel to change the zoning along the southwest side of Court Street, the depth of each lot fronting on Court Street beginning at Morton Lane, in a northerly direction with Court Street to the point beyond Ferguson Street where the zoning changes from Residential R-1 to Business B-1; from Residential R-1 to Business B-1.
+
+Respectfully submitted,
+
+NAME
+J. A. Franklin - Date: 10/14/77 - Address: Appomattox, VA
+P. J. Morrison - Date: 10/14/77 - Address: Lynchburg, VA
+W. W. Callaghan - Date: 10/12/77 - Address: Lynchburg, VA
+chunk_id: 20392
+record_id: 1412
+page_number: 1
+

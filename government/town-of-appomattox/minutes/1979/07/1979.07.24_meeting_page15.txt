@@ -1,0 +1,9 @@
+ref: reel_03_0497
+date: 1930-01-01
+content: This relatively small contribution can go a long way toward saving future insurance dollars. Also, should your locality decide to become a subscribing member, this contribution would be credited to your account when determining the amount of your capital assessment.
+
+The Executive Committee of the Virginia Municipal League has already allocated $3,500 toward the development of the reciprocal insurance proposal. This represents a substantial commitment on their part to see this project succeed. However, the limited financial resources in the VML budget cannot cover all the implementation costs of such a monumental task. We do hope that your locality will contribute to the continuation of this project and eventually become a 'charter' member.
+chunk_id: 20645
+record_id: 1665
+page_number: 1
+

@@ -1,0 +1,14 @@
+ref: reel_02_0247
+date: 1950-06-29
+content: A special meeting of the Appomattox Town Council was called on June 29, 1950 for the purpose of meeting with an agent of the Appomattox Garment Co. to establish an agreement and terms with same for water used and the servicing of their sprinkler system.
+
+Mayor O. B. Buchanan presided with the following members present: Chas. F. James, J. E. Jamerson, G. S. Jenkins, J. C. Caldwell and P. C. Dresser.
+
+On a motion by J. C. Caldwell, seconded by G. S. Jenkins and carried, that, The Appomattox Garment Co. promise to pay the Town of Appomattox a minimum of $100.00 each month for the water used in their Route #460 plant. If the meter reading, figured at the prevailing rate, exceeds $100.00 for the month then the prevailing rate would be in effect for that month. (note) at the prevailing rate of 30 cents per thousand gallons it will require 316,667 gallons equals $100.00
+
+E. Carroll Smith, Clerk
+O. B. Buchanan, Mayor
+chunk_id: 19731
+record_id: 751
+page_number: 1
+

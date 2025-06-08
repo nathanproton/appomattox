@@ -1,0 +1,13 @@
+ref: reel_02_0124
+date: 1946-01-07
+content: Mayor's Docket for Dec 1945
+Dec 17, The case of Maggie Jennings, Fined 10.00, Paid 6.00
+"" Weller Fendley, Drunk in town, 10.00, 6.00
+"" Thos Edw'd Jennings, Served in Jail, 10.00, 6.00
+Dec 1, Ernest & Luther Shoemaker, 20.00, Pd 7.00
+50.00, 25.00
+30.00, 13.00
+chunk_id: 19620
+record_id: 640
+page_number: 1
+

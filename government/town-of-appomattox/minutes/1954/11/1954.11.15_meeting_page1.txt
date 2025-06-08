@@ -1,0 +1,19 @@
+ref: reel_02_0301
+date: 1954-11-15
+content: The regular meeting of the Town Council met in the Mayor's Office on November 15, 1954, with Mayor Chas. F. James presiding. The following members were present: J. L. Almond, G. E. Smith, Mrs. C. H. Robinson, C. T. Moses, Jr., and Dr. D. A. Christian, III.
+
+The minutes of the previous meeting were approved as read.
+
+A motion was made by J. L. Almond and seconded by ______, that the Town not buy but lease a two-way radio and purchase the smaller one-way radio for $85.00. Motion carried.
+
+A motion was made by G. E. Smith, seconded by Dr. G. E. Smith, that the Town observe Clean-up week for the Town. Motion carried.
+
+A motion was made by Dr. D. A. Christian, III, seconded by Mrs. C. H. Robinson, that the Town finish paying all employees their salaries on December 24th, 1954. Motion carried.
+
+A motion was made by Mrs. C. H. Robinson, seconded by G. E. Smith, that the Town give each regular employee a Christmas present of $5.00. Motion carried.
+
+A motion was made by G. E. Smith, seconded by Mrs. C. H. Robinson, that the Town increase Harry Jarrella's salary from $190.00 per month to $____________ per month, effective December 1, 1954. Motion carried.
+chunk_id: 19785
+record_id: 805
+page_number: 1
+

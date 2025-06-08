@@ -1,0 +1,14 @@
+ref: reel_02_0438
+date: 1930-01-01
+content: Holland asked about the status of the proposed sidewalk in front of Mrs. C. K. Hunter's house. The Mayor was instructed to negotiate with her.
+
+The bills were read and ordered paid.
+
+The Council then adjourned.
+
+Signed: H. B. Pack, Jr. Mayor
+Signed: C. S. Booth Clerk
+chunk_id: 19922
+record_id: 942
+page_number: 1
+

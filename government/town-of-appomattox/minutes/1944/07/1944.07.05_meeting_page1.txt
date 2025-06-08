@@ -1,0 +1,22 @@
+ref: reel_02_0044
+date: 1944-07-05
+content: Bills ordered paid
+Bella Alkali Co. Gas 10.88
+J. & D. Burns Co. manifold gauge 20.87
+Mrs. Lulu Irby coal 2.54
+M. Reynolds gas and oil 6.88
+Water Co. Gallops water 26.60
+Martin Case Service Gas 2.42
+J. A. Burks & Co. Ins. 9.28
+M. L. 8.72
+J. W. Hunttom salary and taxes 10.40
+O. B. McVernon June tax 9.00
+E. Langham garage labor 4.80
+
+On motion adjourned C. M. Williamson Mayor
+J. W. Caomphom Clerk
+July 5th, 1944
+chunk_id: 19542
+record_id: 562
+page_number: 1
+

@@ -1,0 +1,18 @@
+ref: reel_02_0544
+date: 1956-05-01
+content: The Street Committee was requested to submit suggestions for names for the two new streets at the next meeting.
+
+The meeting adjourned.
+
+Signed
+
+Mayor
+
+Signed
+
+Clerk
+
+chunk_id: 20014
+record_id: 1034
+page_number: 1
+

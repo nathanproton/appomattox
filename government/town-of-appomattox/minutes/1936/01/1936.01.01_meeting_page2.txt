@@ -1,0 +1,51 @@
+ref: reel_02_0706
+date: 1930-01-01
+content: CITY OF LYNCHBURG
+By D. P. Rineer
+City Manager
+
+TOWN OF ALTAVISTA
+By S. E. Barnette
+Mayor
+
+CITY OF BEDFORD
+By Lawrence F. Querm
+Mayor
+
+TOWN OF AMHERST
+By L. F. Dovey
+Mayor
+
+COUNTY OF AMHERST
+By James C. Bailey
+Chairman of Board of Supervisors
+
+TOWN OF APPOMATTOX
+By Mrs. C. H. Robinson
+Vice-Mayor
+
+COUNTY OF APPOMATTOX
+By Otter W. Martin
+Chairman of Board of Supervisors
+
+TOWN OF BROOKNEAL
+By G. F. Andrew
+Mayor
+
+COUNTY OF BEDFORD
+By H. L. Cooper
+Chairman of Board of Supervisors
+
+CENTRAL VIRGINIA PLANNING DISTRICT COMMISSION
+By Warren A. Ciry
+Chairman
+
+COUNTY OF CAMPBELL
+By Wm. B. Store
+Chairman of Board of Supervisors
+
+Page 9 of 9 pages
+chunk_id: 20165
+record_id: 1185
+page_number: 1
+

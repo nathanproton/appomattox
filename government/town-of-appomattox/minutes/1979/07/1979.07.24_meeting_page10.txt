@@ -1,0 +1,15 @@
+ref: reel_03_0492
+date: 1930-01-01
+content: The second item to be commented on is item 3(i). A minimum of $800,000 is required for an assessable reciprocal and $2,000,000 for a non-assessable one. Additional capital will be required to meet immediate expenses and losses without impairing the company's minimum capital and surplus. It is the recommendation of our consultant that the company be formed on an assessable basis.
+
+In any type of self-insurance it is expected that those participating will in the final analysis pay the full cost of the operation and, similarly, will benefit by its success. This assessment can be limited to one year's premium. Since this method more than halves the initial capital requirements, it is certainly the most practical course to choose.
+
+Minimum Capital
+
+The necessary minimum capital must be contributed by those interested in the organization of the company with the understanding that interest may be paid or capital returned only out of the earnings of the company. The minimum figure of $800,000 for an assessable reciprocal is subject to escalation by the Bureau of Insurance. It is almost a certainty that the actual figure will be higher than $800,000. The exact amount will be determined by the Bureau of Insurance based on an analysis of the risks to be assumed by the company.
+
+In order to generate this initial capital, it has been suggested that an assessment of approximately $1.00 per capita be levied against each subscriber. As new subscribers join, beyond the
+chunk_id: 20640
+record_id: 1660
+page_number: 1
+

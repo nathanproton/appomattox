@@ -1,0 +1,14 @@
+ref: reel_02_0742
+date: 1974-02-18
+content: I, the undersigned member of the Appomattox Town Council, do certify that I have read the proposed resolution insert to the Council minutes of February 18, 1974 regarding the submission of 165 feet of Lee-Grant Avenue and 275 feet of Pine Street into the Highway System and vote as indicated below to authorize same be made a part of such minutes:
+
+1. Mr. Burke Guill    Yes ✓  No —     Signature ___
+2. Mr. T. E. Conner    Yes ✓  No —     Signature ___
+3. Mrs. Robinson      Yes ✓  No —     Signature ___
+4. Mr. Ivey Holland  Yes ✓  No —     Signature ___
+5. Mr. R. C. Hubbard  Yes ✓  No —     Signature ___
+6. Mr. M. L. Webb      Yes ✓  No —     Signature ___
+chunk_id: 20193
+record_id: 1213
+page_number: 1
+

@@ -1,0 +1,56 @@
+ref: reel_02_0555
+date: 1970-01-01
+content: TOWN OF APPOMATTOX VIRGINIA
+BUDGET FOR 1970
+
+GENERAL FUND EXPENDITURES
+
+ADMINISTRATIVE
+
+Mayor $ 300.00
+Council 1100.00
+Payrolls 1866.00
+Tax List 400.00
+Town Attorney 300.00
+Auditor 300.00
+Insurance & Bonds 100.00
+Membership - Va. Municipal League-G. of C. 160.00
+Office Supplies-Postage-Box Rent 500.00
+Telephone 150.00
+Oil & Electricity 300.00
+Office Building Supplies & Maint. 300.00
+Publishing-Ads-Promotion 175.00
+Auto Tags 4700.00
+School Electricity 200.00
+Other Reimbursals 7342.00
+Equipment 300.00
+Miscellaneous
+Total $ 21,837.00
+
+POLICE DEPARTMENT
+
+Payrolls $ 6000.00
+Salary - Judge 600.00
+Car - Repairs & Maintenance 300.00
+Insurance 300.00
+Prisoner Cost-Miscellaneous 300.00
+D. M. V. 125.00
+Total $ 7,825.00
+
+FIRE DEPARTMENT
+
+Building Maintenance & Supplies $ 100.00
+Fire Truck Maintenance 150.00
+Fire Equipment Supplies 500.00
+Payroll 330.00
+Oil & Electricity 200.00
+Telephone 300.00
+Communications 100.00
+Insurance-Truck & Men 1000.00
+Reserve for New Truck 500.00
+Annual Supper, Etc. 200.00
+Total $3,260.00
+chunk_id: 20025
+record_id: 1045
+page_number: 1
+

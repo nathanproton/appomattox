@@ -1,0 +1,24 @@
+ref: reel_02_0077
+date: 1945-02-01
+content: Financial Statement
+Bal in Bank of Appx 1st Jan  878.62
+Deposits  1116.54
+            1995.16
+Paid out in 1945  390.58
+            1604.58
+2 checks out 89.60
+Bal Feby 1st  ->  1694.18
+
+Bal in GM Bank Jan 1st  170.74
+Dep  9.00
+          179.74
+Pd out 208.92 + 57 service charge 266.49
+                 ->  29.75
+
+Bal in W Bank Jan 1st  176.49
+Pd out 17.79 no deposits
+Bal Feby 1st  -> 158.70
+chunk_id: 19573
+record_id: 593
+page_number: 1
+

@@ -1,0 +1,35 @@
+ref: reel_02_0088
+date: 1945-06-01
+content: Financial Statement
+Bal in Bank Appex Nat May 1st
+ 454.62
+Deposited
+1375.94
+Pd out
+2017.60
+491.46
+Bal June 1st all chk in
+494.46
+Bal in FNB RF May 1st
+691.89
+Deposited
+820.00
+Pd out
+248.99
+252.00
+Bal June 1st
+720.69
+Bal in FNB FM May 1st
+88.02
+Deposited
+30.00
+Pd out
+11.82
+15.75
+Bal June 1st
+102.27
+(Sm charge no chk 27)
+chunk_id: 19584
+record_id: 604
+page_number: 1
+

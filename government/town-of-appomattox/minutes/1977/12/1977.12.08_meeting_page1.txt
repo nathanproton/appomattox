@@ -1,0 +1,9 @@
+ref: reel_03_0261
+date: 1977-11-30
+content: Public Notice to Land Owners or Occupant
+
+Notice is hereby given that the Appomattox Town Council will hold a Public Hearing on December 8, 1977 at 7:30 P.M. in the Appomattox Town Office, to allow citizens of the Town of Appomattox and any and all persons to express their views on the requested change in the Town Zoning Ordinance in the R-1 Zone of the parcels of land facing and fronting on the southwestern side of Court Street in the block bounded by Ferguson Street on the north and by Morton Lane on the south to B-1.
+chunk_id: 20444
+record_id: 1464
+page_number: 1
+

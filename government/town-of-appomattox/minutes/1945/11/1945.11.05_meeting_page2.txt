@@ -1,0 +1,7 @@
+chunk_id: 19607
+date: 1945-11-05
+page_number: 1
+record_id: 627
+ref: reel_02_0111
+
+

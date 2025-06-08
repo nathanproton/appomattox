@@ -1,0 +1,15 @@
+ref: reel_03_0495
+date: 1970-01-01
+content: (See Appendix E on page 21) In order to be conservative, only the present expected premium has been used although some growth would naturally be expected. Also, a fifty percent loss to reinsurers has been used although available experience data does not indicate that the reinsurance ceiling would be penetrated at all. If previous experience continued, therefore, savings would be considerably higher.
+
+Feasibility
+
+It appears eminently feasible for the VML to organize a captive reciprocal insurance company with every expectation that such a company could create substantial savings for its policy-holders and as experience is gained and financial resources increased, its services can be expanded. These additional services could include the offering of specialized insurance coverages specifically designed for the needs of the local government operation together with risk management services to offer greater protection and lowered loss expectancy for the future.
+
+The Next Step...
+
+The next step is to obtain good faith commitments from at least 25 localities that they will join in the reciprocal once it has been licensed. As mentioned earlier, each locality joining would be required to contribute capital prior to licensing. It has been estimated that an assessment of approximately $1.00 per capita from each of the initial subscribers will be sufficient to meet the minimum requirements. The Insurance Committee will work
+chunk_id: 20643
+record_id: 1663
+page_number: 1
+
